@@ -1,6 +1,6 @@
 # Cancer Survival Analysis Project
 
-## About
+## About
 This project focuses on analyzing survival outcomes for patients diagnosed with five primary types of cancer: Lung, Pancreas, Thyroid, Colorectal, and Melanoma. By applying Kaplan-Meier survival analysis, the study evaluates survival disparities based on gender, race, and age groups to uncover critical insights for improving patient outcomes and guiding healthcare strategies.
 
 ---
